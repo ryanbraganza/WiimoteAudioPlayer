@@ -1,0 +1,7 @@
+Run ui.main
+press 1+2 on your wiimote and wait for it to connect (it will take longer than your usual wii connection)
+wait for a file dialog to pop up
+select an audio file
+wait for some transcoding and prebuffering to occur
+enjoy your audio!
+(close the window to quit)

@@ -4,6 +4,10 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/bluecove-2.1.0.jar"/>
 	<classpathentry kind="lib" path="lib/bluecove-gpl-2.1.0.jar"/>
-	<classpathentry kind="lib" path="lib/WiiRemoteJ.jar"/>
+	<classpathentry kind="lib" path="lib/WiiRemoteJ.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/ryan/wiimote/workspace/WiimoteAudioPlayer/lib/wiimotedocs/"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
